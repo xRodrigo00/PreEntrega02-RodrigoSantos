@@ -1,0 +1,11 @@
+-Debe tener objetos, arrays y metodos
+-Puede tener Funciones OS
+capturar entradas mediante prompt
+
+Se debe entregar:
+estrucrtura html
+variables js necesarias
+funciones escenciales del proceso a simular
+objetos de js
+arrays
+metodos de busqueda y filtrado sobre el arrays
